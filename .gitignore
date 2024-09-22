@@ -2,7 +2,7 @@
 node_modules/
 
 # DB files
-/db/*.json
+db/*.json
 
 # environments
 .env
